@@ -2,11 +2,8 @@
 
 Bienvenue sur le proejt fictif de construction de projet
 
-<<<<<<< HEAD
-Ce projet simule une constuction d'une fusé avec chaque étapes de la construction
-=======
 Ce projet simule une constuction d'une fusé avec chaque étapes de la construction.
->>>>>>> feature/système-de-parachutage
+
 
 Installation
 Clonez ce dépôt : git clone https://github.com/RubenSmadja/DevoirGit-Fuse-Yoel-Ruben.git 
