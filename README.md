@@ -2,7 +2,6 @@
 
 Bienvenue sur le proejt fictif de construction de projet
 
-
 Ce projet simule une constuction d'une fusé avec chaque étapes de la construction.
 
 
