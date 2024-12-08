@@ -2,7 +2,7 @@
 
 Bienvenue sur le proejt fictif de construction de projet
 
-Ce projet simule une constuction d'une fusé avec chaque étapes de la construction avec des est une issue, une branche, et une PR.
+Ce projet simule une constuction d'une fusé avec chaque étapes de la construction
 
 Installation
 Clonez ce dépôt : git clone https://github.com/RubenSmadja/DevoirGit-Fuse-Yoel-Ruben.git 
