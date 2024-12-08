@@ -1,0 +1,5 @@
+Description : Créer la base de la fusée.
+
+Tâches :
+Dessiner les plans.
+Définir les dimensions et matériaux.
